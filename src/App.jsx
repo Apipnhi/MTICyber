@@ -301,7 +301,7 @@ function App() {
         }}
         {...fadeInUp}
       >
-        <p>© 2023 - Analisis Keamanan Informasi | Manajemen Teknologi Informasi</p>
+        <p>Analisis Keamanan Informasi | Manajemen Teknologi Informasi</p>
       </motion.footer>
     </div>
   );
